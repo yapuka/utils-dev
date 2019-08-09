@@ -40,9 +40,23 @@ Marre de vous casser la tête pour trouver le nom qui correspond à ce bleu un p
 - [React Sprint](https://blog.logrocket.com/animations-with-react-spring)
 - [React-Native Lottie](https://github.com/react-native-community/lottie-react-native)
 
+# Editeur de texte
+### **TODO:** VIM
+- [developpez.com](https://linux.developpez.com/formation_debian/vim.html)
+- [commandes](https://coagul.org/drupal/publication/commandes-et-options-vi-vim)
+
+### **TODO:** Virtual Studio Code
+- Quelques extensions : DotENV, EditorCondif, ESLINT, Live Share
 
 # Misc
 ### Markdown
 Le markdown est très pratique pour écrire des docs rapidement. Vous connaissez tous de part les `README.md`, plus complets les un que les autres, que vous avez pu lire ou écrire.
 
 Voila de quoi vous aider avec ce [petit guide syntaxique](https://guides.github.com/features/mastering-markdown/#syntax).
+
+### **TODO:** Oh My ZSH
+- [Doc officielle](https://github.com/robbyrussell/oh-my-zsh/wiki)
+
+### **TODO:** Installer Cygwin avec Cmder
+- [Doc officielle de Cmder](https://github.com/cmderdev/cmder/wiki/Integrating-Cygwin)
+- [Cmder Cygwin ZSH](https://gist.github.com/dfontana/3e27ec5ea3a6f935b7322b580d3df318)
